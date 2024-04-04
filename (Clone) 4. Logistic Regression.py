@@ -3,7 +3,8 @@
 
 # COMMAND ----------
 
-mlflow_run_name = "{}_logistic_run".format(config['model name'])
+#@
+mlflow_run_name = "{}_logistic_run".format(config['model name']) 
 
 # COMMAND ----------
 
